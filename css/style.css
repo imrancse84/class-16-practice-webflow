@@ -1,0 +1,206 @@
+
+
+img{
+	max-width: 100%;
+}
+
+.first-section{}
+.heading{
+	padding: 65px;
+}
+.heading p{
+    font-size: 17px;
+    padding-top: 10px;
+}
+.heading h1{}
+.heading a button{
+    font-size: 18px;
+    font-weight: 700;
+}
+.heading a{
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.product img{
+	width: 100%;
+}
+
+
+
+
+.second-section{
+	background: #F1F4FB;
+	padding: 15px;
+}
+
+.second-section h3{
+    margin-bottom: 25px;
+}
+.second-section ul{}
+.second-section ul li{}
+
+
+/*.flex{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.col{
+    width: 20%;
+    flex: 0 0 auto;
+    padding: 15px;
+}
+*/
+
+.logos{}
+.logos ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.logos ul li {
+	list-style: none;
+	text-align: center;
+	padding-right: 25px;
+}
+.logos ul li a{
+	text-decoration: none;
+}
+
+.about{}
+.about h2{
+	margin-bottom: 25px
+}
+.about p{
+    max-width: 475px;
+    margin: auto;
+    margin-bottom: 60px;
+    line-height: 1.6;
+}
+
+.product-img img{
+	margin-top: 25px
+}
+.product-content h2{
+    font-size: 33px;
+    line-height: 1.6;
+    margin-top: 40px;
+    margin-bottom: 12px;
+}
+.product-content p{
+	line-height: 1.6;
+    font-size: 18px;
+}
+
+.problem{}
+.problem h2{
+	margin-top: 60px;
+}
+.problem p{
+	max-width: 535px;
+    margin: auto;
+}
+
+.support-content{}
+.support-content h2{
+	 font-size: 35px;
+}
+.support-content p{
+	font-size: 20px
+}
+
+.result h2{
+	max-width: 600px;
+    margin: auto;
+}
+
+.customerp ul{
+	display: flex;
+	flex-wrap: wrap;
+}
+.customerp ul li{
+	list-style: none;
+	flex: 0 0 auto;
+}
+span{
+	background:#ff000045;
+}
+.customer{}
+.customer strong{
+    font-size: 20px;
+}
+.customer p{
+    font-size: 15px;
+    padding-bottom: 36px;
+}
+
+.customer-img img{
+    padding-bottom: 15px;
+}
+
+.customer-img{
+	box-shadow: 1px 1px 1px 2px #3333;
+}
+
+.customer-content{
+	    padding-top: 50px;
+    line-height: 1.6;
+}
+
+.customer-content h2{
+	line-height: 1.6;
+}
+
+.customer-content p{}
+
+
+.fivth-section{
+	background:#237BE5;
+}
+.fivth-section a{
+	color: #fff;
+}
+.fivth-section a button{
+	color:#237BE5;
+	font-size: 22px;
+	font-weight: 400;
+}
+
+
+
+
+.seven-section{}
+.seven-section h1{
+    margin-top: 25px;
+    font-size: 42px;
+}
+.seven-section p{
+    font-size: 25px;
+    margin-top: 35px;
+}
+
+
+
+
+
+
+
+
+
+footer{
+	background: #F1F4FB;
+}
+.social{}
+.social ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.social ul li{
+	list-style: none;
+	text-align: center;
+}
+.social ul li a {
+	text-decoration: none;
+}
